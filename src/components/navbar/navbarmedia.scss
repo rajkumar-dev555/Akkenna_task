@@ -1,0 +1,24 @@
+@media(max-width:390px) {
+	#Navbar {
+		// background-color: aqua;
+		
+		.titlename{
+			width: 100vw;
+			text-align: center;
+
+		}
+	}
+
+	.navbarlist {
+		display: none;
+	}
+
+
+}
+
+// @media only screen and (min-width: 350px) and (max-width: 750px) {
+//     .navbar.titlename {
+//         align-items: center;
+//         text-align: center !important;
+//     }
+// }
